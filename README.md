@@ -6,3 +6,7 @@ https://github.com/edamame-course/2016-tutorials/wiki
 EDAMAME website
 http://www.edamamecourse.org/
 
+hey hey hey this is Mauna
+ 
+CHANGES
+added my name
